@@ -8,6 +8,12 @@ export default {
     // },
     { name: 'structure-menu' },
     {
+      name: 'vercel',
+      layout: {
+        width: 'full', // full width is recommended!
+      },
+    },
+    {
       name: 'project-info',
       options: {
         __experimental_before: [
